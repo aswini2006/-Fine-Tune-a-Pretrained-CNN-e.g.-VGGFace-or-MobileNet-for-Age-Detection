@@ -14,30 +14,5 @@ The project uses the [UTKFace dataset](https://www.kaggle.com/datasets/jangedoo/
 
 ## Requirements
 See `requirements.txt` for all dependencies.
-
-## Getting Started
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/YourGitHubUsername/YourRepoName.git
-    cd YourRepoName
-    ```
-
-2. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the script:
-    ```bash
-    python age_gender_detection.py
-    ```
-
 ## Results
 The trained model achieved competitive accuracy in age regression tasks, with Mean Absolute Error (MAE) results visualized during training.
-
-## Future Work
-- Explore gender classification tasks.
-- Deploy the model using Streamlit for real-time predictions.
-
-## License
-Specify your license (e.g., MIT, Apache 2.0).
